@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 86b54a84b3359954d8394c3b8a1034a1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainMixer: {fileID: 24100000, guid: fd5e9db0696135f49ad99608d298cedb, type: 2}
+  - bgMusicSlider: {instanceID: 0}
+  - buttonSoundSlider: {instanceID: 0}
+  - ttsToggle: {instanceID: 0}
+  - qualityDropdown: {instanceID: 0}
+  - buttonClickSource: {instanceID: 0}
+  - buttonClickSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
