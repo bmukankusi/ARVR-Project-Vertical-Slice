@@ -10790,7 +10790,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4389d379de298c04bb3a43b36bdf69bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  roomText: From here, you can transition to another to view different art works.
+  roomText: From here, you can transition to another room to view different art works.
 --- !u!1 &1110882033
 GameObject:
   m_ObjectHideFlags: 0
