@@ -74,4 +74,6 @@ crashlytics-build.properties
 #Packages
 /Assets/Packages/Meta XR All-in-One SDK
 /Assets/Packages/StreamingAssets
+/Assets/Real Stars Skybox
+/Assets/Real Stars Skybox.meta
 
