@@ -76,4 +76,7 @@ crashlytics-build.properties
 /Assets/Packages/StreamingAssets
 /Assets/Real Stars Skybox
 /Assets/Real Stars Skybox.meta
+/Assets/Real Stars Skybox/StarSkybox04/CubemapStars.cubemap 
+/Assets/Real Stars Skybox/StarSkybox04Named/CubemapStarsNamed.cubemap 
+
 
