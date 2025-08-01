@@ -7277,6 +7277,8 @@ MonoBehaviour:
   bgMusicSlider: {fileID: 831091919}
   buttonSoundSlider: {fileID: 1982217163}
   mainMixer: {fileID: 24100000, guid: fd5e9db0696135f49ad99608d298cedb, type: 2}
+  ttsManager: {fileID: 0}
+  ttsToggle: {fileID: 661452791}
 --- !u!4 &1854714885
 Transform:
   m_ObjectHideFlags: 0
@@ -8238,8 +8240,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 172a10c6aaf477242b6923ee81d83746, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  musicSource: {fileID: 2069526771}
-  volume: 0.852
 --- !u!82 &2069526771
 AudioSource:
   m_ObjectHideFlags: 0
