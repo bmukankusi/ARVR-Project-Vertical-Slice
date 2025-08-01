@@ -39,6 +39,8 @@ AudioMixerController:
     name: VolumeBgMusic
   - guid: c83cabf0f8ada244d9b73839575b7215
     name: VolumeButtonSound
+  - guid: 5342a45e04df8f94085393ad7347e4f8
+    name: MyExposedParam
   m_AudioMixerGroupViews:
   - guids:
     - 9cd3d349f8094dc41aaba4b36999079e
@@ -92,7 +94,7 @@ AudioMixerSnapshotController:
   m_AudioMixer: {fileID: 24100000}
   m_SnapshotID: d19051d5fbc49be40bccd990a7993f28
   m_FloatValues:
-    79f9855e52a780045b7055a9fe9321db: 5
+    79f9855e52a780045b7055a9fe9321db: 0
   m_TransitionOverrides: {}
 --- !u!243 &2837060583142429721
 AudioMixerGroupController:
